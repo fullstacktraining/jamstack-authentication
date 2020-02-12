@@ -1,0 +1,9 @@
+[{
+  "id": 0,
+  "name": "Luke Skywalker",
+  "homeworld": "Tatooine"
+}, {
+  "id": 1,
+  "name": "Darth Vader",
+  "homeworld": "Tatooine"
+}]
